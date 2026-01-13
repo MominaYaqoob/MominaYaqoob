@@ -21,9 +21,8 @@ Flutter Developer • Mobile App Engineer • UI/UX Focused
 💡 I specialize in **UI/UX design**, **Firebase integration**, **Authentication**, and **REST APIs**, focusing on smooth performance, accessible interfaces, and maintainable architecture.
 
 🌍 Open to **Remote Opportunities**  
-🌐 Portfolio: [https://mominayaqoob-portfolio-website.web.app](https://mominayaqoob-portfolio-website.web.app)
-
-    Gmail : mominayaqoob00@gmail.com
+🌐 Portfolio: [https://mominayaqoob-portfolio-website.web.app](https://mominayaqoob-portfolio-website.web.app)  
+📧 Email: [mominayaqoob00@gmail.com](mailto:mominayaqoob00@gmail.com)
 
 ---
 
