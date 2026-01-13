@@ -44,29 +44,24 @@ Primary tools and frameworks I use regularly:
 - Version control & collaboration — Git, GitHub  
 
 ---
-
 ## 🚀 Expertise Level
-text
-Flutter        ██████████ 90%
-UI / UX        ██████████ 90%
-Dart           █████████░ 85%
-Firebase       ████████░░ 80%
-REST APIs      ████████░░ 80%
-State Mgmt     ████████░░ 80%  (Provider, Riverpod, Bloc)
-Animations     ████████░░ 80%
-Local Storage  ████████░░ 80%  (Hive, SQLite)
-Testing        ███████░░░ 70%
-CI/CD          ███████░░░ 70%
----
+
+**Flutter**        ▓▓▓▓▓▓▓▓▓▓ 90%  
+**UI / UX**        ▓▓▓▓▓▓▓▓▓▓ 90%  
+**Dart**           ▓▓▓▓▓▓▓▓▓░ 85%  
+**Firebase**       ▓▓▓▓▓▓▓▓░░ 80%  
+**REST APIs**      ▓▓▓▓▓▓▓▓░░ 80%  
+**State Mgmt**     ▓▓▓▓▓▓▓▓░░ 80%  _(Provider, Riverpod, Bloc)_  
+**Animations**     ▓▓▓▓▓▓▓▓░░ 80%  
+**Local Storage**  ▓▓▓▓▓▓▓▓░░ 80%  _(Hive, SQLite)_  
+**Testing**        ▓▓▓▓▓▓▓░░░ 70%  
+**CI/CD**          ▓▓▓▓▓▓▓░░░ 70%
+
 
 ## 📁 Featured Projects
 
 ### ⭐ Stick4Guide — Final Year Project
-<p align="center">
-<img src="assets/stick4guide_home.png" width="220"/>
-<img src="assets/stick4guide_sos.png" width="220"/>
-<img src="assets/stick4guide_location.png" width="220"/>
-</p>
+
 
 🦯 **Flutter-based assistive app for visually impaired users**  
 
@@ -78,9 +73,7 @@ CI/CD          ███████░░░ 70%
 ---
 
 ### ⭐ E-Commerce Mobile App
-<p align="center">
-<img src="assets/ecommerce_app.png" width="220"/>
-</p>
+
 
 🛒 Full-featured shopping application  
 
@@ -92,9 +85,7 @@ CI/CD          ███████░░░ 70%
 ---
 
 ### ⭐ Restaurant Management App
-<p align="center">
-<img src="assets/restaurant_app.png" width="220"/>
-</p>
+
 
 🍽 App for managing restaurant operations  
 
