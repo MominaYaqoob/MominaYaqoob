@@ -46,8 +46,7 @@ Primary tools and frameworks I use regularly:
 ---
 
 ## 🚀 Expertise Level
-
-```text
+text
 Flutter        ██████████ 90%
 UI / UX        ██████████ 90%
 Dart           █████████░ 85%
@@ -58,3 +57,74 @@ Animations     ████████░░ 80%
 Local Storage  ████████░░ 80%  (Hive, SQLite)
 Testing        ███████░░░ 70%
 CI/CD          ███████░░░ 70%
+---
+
+## 📁 Featured Projects
+
+### ⭐ Stick4Guide — Final Year Project
+<p align="center">
+<img src="assets/stick4guide_home.png" width="220"/>
+<img src="assets/stick4guide_sos.png" width="220"/>
+<img src="assets/stick4guide_location.png" width="220"/>
+</p>
+
+🦯 **Flutter-based assistive app for visually impaired users**  
+
+✔ SOS Alerts  
+✔ Real-time location tracking  
+✔ Geo-fencing & smart notifications  
+✔ Firebase backend integration  
+
+---
+
+### ⭐ E-Commerce Mobile App
+<p align="center">
+<img src="assets/ecommerce_app.png" width="220"/>
+</p>
+
+🛒 Full-featured shopping application  
+
+✔ User authentication  
+✔ Product & order management  
+✔ Real-time Firebase database  
+✔ Clean & responsive UI  
+
+---
+
+### ⭐ Restaurant Management App
+<p align="center">
+<img src="assets/restaurant_app.png" width="220"/>
+</p>
+
+🍽 App for managing restaurant operations  
+
+✔ Menu & order handling  
+✔ Firebase authentication  
+✔ Real-time updates  
+
+---
+
+## 🌐 Connect / Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  <a href="https://github.com/MominaYaqoob" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  <a href="https://mominayaqoob-portfolio-website.web.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=chrome" width="48" />
+  </a>
+</p>
+
+<div align="center">
+
+✨ *Let’s build clean, reliable & impactful Flutter apps together!* ✨  
+
+⭐ **If you like my work, don’t forget to star my repositories** ⭐  
+
+</div>
