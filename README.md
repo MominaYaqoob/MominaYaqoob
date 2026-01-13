@@ -51,9 +51,9 @@ Primary tools and frameworks I use regularly:
 **Dart**           ▓▓▓▓▓▓▓▓▓░ 85%  
 **Firebase**       ▓▓▓▓▓▓▓▓░░ 80%  
 **REST APIs**      ▓▓▓▓▓▓▓▓░░ 80%  
-**State Mgmt**     ▓▓▓▓▓▓▓▓░░ 80%  _(Provider, Riverpod, Bloc)_  
+**State Mgmt**     ▓▓▓▓▓▓▓▓░░ 80%  
 **Animations**     ▓▓▓▓▓▓▓▓░░ 80%  
-**Local Storage**  ▓▓▓▓▓▓▓▓░░ 80%  _(Hive, SQLite)_  
+**Local Storage**  ▓▓▓▓▓▓▓▓░░ 80% 
 **Testing**        ▓▓▓▓▓▓▓░░░ 70%  
 **CI/CD**          ▓▓▓▓▓▓▓░░░ 70%
 
