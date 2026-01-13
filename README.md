@@ -43,7 +43,6 @@ Primary tools and frameworks I use regularly:
 - CI / CD — GitHub Actions, fastlane (basic)  
 - Version control & collaboration — Git, GitHub  
 
----
 ## 🚀 Expertise Level
 
 **Flutter**        ▓▓▓▓▓▓▓▓▓▓ 90%  
@@ -51,11 +50,12 @@ Primary tools and frameworks I use regularly:
 **Dart**           ▓▓▓▓▓▓▓▓▓░ 85%  
 **Firebase**       ▓▓▓▓▓▓▓▓░░ 80%  
 **REST APIs**      ▓▓▓▓▓▓▓▓░░ 80%  
-**State Mgmt**     ▓▓▓▓▓▓▓▓░░ 80%  
+**State Mgmt**     ▓▓▓▓▓▓▓▓░░ 80%  _(Provider, Riverpod, Bloc)_  
 **Animations**     ▓▓▓▓▓▓▓▓░░ 80%  
-**Local Storage**  ▓▓▓▓▓▓▓▓░░ 80% 
+**Local Storage**  ▓▓▓▓▓▓▓▓░░ 80%  _(Hive, SQLite,SharePrefference)_  
 **Testing**        ▓▓▓▓▓▓▓░░░ 70%  
 **CI/CD**          ▓▓▓▓▓▓▓░░░ 70%
+
 
 
 ## 📁 Featured Projects
