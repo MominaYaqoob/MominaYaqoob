@@ -23,6 +23,8 @@ Flutter Developer • Mobile App Engineer • UI/UX Focused
 🌍 Open to **Remote Opportunities**  
 🌐 Portfolio: [https://mominayaqoob-portfolio-website.web.app](https://mominayaqoob-portfolio-website.web.app)
 
+    Gmail : mominayaqoob00@gmail.com
+
 ---
 
 ## 🧠 Tech Stack
@@ -95,22 +97,6 @@ Primary tools and frameworks I use regularly:
 
 ---
 
-## 🌐 Connect / Contact Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
-  <a href="https://github.com/MominaYaqoob" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
-  </a>
-  <a href="https://mominayaqoob-portfolio-website.web.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=chrome" width="48" />
-  </a>
-</p>
 
 <div align="center">
 
