@@ -46,16 +46,30 @@ Primary tools and frameworks I use regularly:
 
 ## 🚀 Expertise Level
 
-**Flutter**        ▓▓▓▓▓▓▓▓▓▓ 90%  
-**UI / UX**        ▓▓▓▓▓▓▓▓▓▓ 90%  
-**Dart**           ▓▓▓▓▓▓▓▓▓░ 85%  
-**Firebase**       ▓▓▓▓▓▓▓▓░░ 80%  
-**REST APIs**      ▓▓▓▓▓▓▓▓░░ 80%  
-**State Mgmt**     ▓▓▓▓▓▓▓▓░░ 80%  _(Provider, Riverpod, Bloc)_  
-**Animations**     ▓▓▓▓▓▓▓▓░░ 80%  
-**Local Storage**  ▓▓▓▓▓▓▓▓░░ 80%  _(Hive, SQLite,SharePrefference)_  
-**Testing**        ▓▓▓▓▓▓▓░░░ 70%  
-**CI/CD**          ▓▓▓▓▓▓▓░░░ 70%
+<p align="center">
+
+<img src="https://img.shields.io/badge/Flutter-90%25-36BCF7?style=plastic&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%20UX-90%25-8A2BE2?style=plastic&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-85%25-0175C2?style=plastic&logo=dart&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Firebase-80%25-FFCA28?style=plastic&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST%20API-80%25-00C853?style=plastic"/>
+<img src="https://img.shields.io/badge/State%20Mgmt-80%25-5C6BC0?style=plastic"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Animations-80%25-EC407A?style=plastic"/>
+<img src="https://img.shields.io/badge/Local%20Storage-80%25-FF7043?style=plastic"/>
+<img src="https://img.shields.io/badge/Testing-70%25-9E9E9E?style=plastic"/>
+<img src="https://img.shields.io/badge/CI%20CD-70%25-607D8B?style=plastic"/>
+
+</p>
 
 
 
